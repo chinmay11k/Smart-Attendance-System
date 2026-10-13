@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.db
+Debug/
+Release/
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.cyclo
